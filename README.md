@@ -1,4 +1,4 @@
-### Task 2
+### Oppgave 2
 ```c
 #include <avr/io.h>
 #include <avr/interrupt.h>
